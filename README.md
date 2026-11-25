@@ -4,7 +4,7 @@
 
 [View the bounty on make.fun](https://make.fun/bounty/u-azazex-last-text-at-one-percent-ba9fc876)
 
-> 1% left. Tell the charger I loved it, tell the group chat I tried, and please, please stop opening the camera.
+> 1% left. Tell the charger I loved it, tell the group chat I tried, and please, please stop taking selfies.
 
 ## Run
 
