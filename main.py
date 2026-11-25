@@ -1,6 +1,6 @@
 """Entry for make.fun bounty: Last Text at One Percent
 Slug: u-azazex-last-text-at-one-percent-ba9fc876
-Entry text (108 characters, gate max 200). Written to /output/entry.txt with no trailing newline.
+Entry text (106 characters, gate max 200). Written to /output/entry.txt with no trailing newline.
 """
 import os
 
